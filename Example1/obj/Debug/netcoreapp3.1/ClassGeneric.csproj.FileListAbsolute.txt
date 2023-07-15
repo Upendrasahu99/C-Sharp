@@ -1,0 +1,14 @@
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\bin\Debug\netcoreapp3.1\ClassGeneric.exe
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\bin\Debug\netcoreapp3.1\ClassGeneric.deps.json
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\bin\Debug\netcoreapp3.1\ClassGeneric.runtimeconfig.json
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\bin\Debug\netcoreapp3.1\ClassGeneric.runtimeconfig.dev.json
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\bin\Debug\netcoreapp3.1\ClassGeneric.dll
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\bin\Debug\netcoreapp3.1\ClassGeneric.pdb
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\obj\Debug\netcoreapp3.1\ClassGeneric.csproj.AssemblyReference.cache
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\obj\Debug\netcoreapp3.1\ClassGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\obj\Debug\netcoreapp3.1\ClassGeneric.AssemblyInfoInputs.cache
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\obj\Debug\netcoreapp3.1\ClassGeneric.AssemblyInfo.cs
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\obj\Debug\netcoreapp3.1\ClassGeneric.csproj.CoreCompileInputs.cache
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\obj\Debug\netcoreapp3.1\ClassGeneric.dll
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\obj\Debug\netcoreapp3.1\ClassGeneric.pdb
+D:\CS\C#.NET\TopicWiseCode\C#Code\Example1\obj\Debug\netcoreapp3.1\ClassGeneric.genruntimeconfig.cache
