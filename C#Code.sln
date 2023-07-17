@@ -39,15 +39,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Object&Class", "4.Object&
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extra", "Extra", "{B554ED0B-52FE-489F-9FF0-60431CF974ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variable", "Variable\Variable.csproj", "{2F93308C-C654-49DD-B768-302BB3B0B183}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variable", "Variable\Variable.csproj", "{2F93308C-C654-49DD-B768-302BB3B0B183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataType", "DataType\DataType.csproj", "{8701D123-16A8-4E71-BC59-F6FC0D54A1EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataType", "DataType\DataType.csproj", "{8701D123-16A8-4E71-BC59-F6FC0D54A1EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator", "Operator\Operator.csproj", "{4916D935-5BF3-4EAD-BDC9-5D5B747AFA53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operator", "Operator\Operator.csproj", "{4916D935-5BF3-4EAD-BDC9-5D5B747AFA53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassGeneric", "Example1\ClassGeneric.csproj", "{4B6479E2-6430-4D50-8658-653705CF6212}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassGeneric", "Example1\ClassGeneric.csproj", "{4B6479E2-6430-4D50-8658-653705CF6212}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methodGenerics", "methodGenerics\methodGenerics.csproj", "{AB04AB27-9435-49E6-8475-B045803AA27D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methodGenerics", "methodGenerics\methodGenerics.csproj", "{AB04AB27-9435-49E6-8475-B045803AA27D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{F9EBC25B-2CB6-4B7E-AAAC-6701EE8D7185}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{AB04AB27-9435-49E6-8475-B045803AA27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB04AB27-9435-49E6-8475-B045803AA27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB04AB27-9435-49E6-8475-B045803AA27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EBC25B-2CB6-4B7E-AAAC-6701EE8D7185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EBC25B-2CB6-4B7E-AAAC-6701EE8D7185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EBC25B-2CB6-4B7E-AAAC-6701EE8D7185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EBC25B-2CB6-4B7E-AAAC-6701EE8D7185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +101,7 @@ Global
 		{4916D935-5BF3-4EAD-BDC9-5D5B747AFA53} = {F0D76157-6582-479E-8FED-B3AA318454BE}
 		{4B6479E2-6430-4D50-8658-653705CF6212} = {0B0BE3C2-3007-4746-B2D1-779B902A8ACF}
 		{AB04AB27-9435-49E6-8475-B045803AA27D} = {0B0BE3C2-3007-4746-B2D1-779B902A8ACF}
+		{F9EBC25B-2CB6-4B7E-AAAC-6701EE8D7185} = {C12A67F1-9CC4-4798-8076-C13EB78F7587}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BA6FFFAF-D337-43AF-844E-E644891348E7}
