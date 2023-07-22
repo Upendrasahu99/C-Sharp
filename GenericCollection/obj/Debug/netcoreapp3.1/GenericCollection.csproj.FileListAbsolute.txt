@@ -1,0 +1,14 @@
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.exe
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.deps.json
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.runtimeconfig.json
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.runtimeconfig.dev.json
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.dll
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.pdb
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.csproj.AssemblyReference.cache
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.AssemblyInfoInputs.cache
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.AssemblyInfo.cs
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.csproj.CoreCompileInputs.cache
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.dll
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.pdb
+D:\CS\C#.NET\TopicWiseCode\C#Code\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.genruntimeconfig.cache

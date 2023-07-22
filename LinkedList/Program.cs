@@ -9,49 +9,40 @@ namespace LinkedList
             public int data;  // data we enter
             public Node next; // reference to next node...
 
-            public Node(int data)
+            public Node(int data)// Create node 
+
             {
                 this.data = data; // when we create node object node created where dat and next reference null store.
                 next = null;
             }
         }
-
         class LinkedList
         {
-            Node head = null;
-            int count;
+            Node head;
+            int count; // number of nodes
 
-            public LinkedList() 
+            public LinkedList()
             {
                 head = null;
                 count = 0;
             }
             
-            public void AddNodeToFront(int data)
+            public void AddLast(int data)
             {
-                Node node = new Node(data);
-                node.next = head;
-                head = node;
-                count++; 
-            }
-            
-            public void PrintList()
-            {
-                Node runner = head;
-                while (runner != null)
+                Node newNode = new Node(data);
+                count++;
+                newNode.next
+                if(head == null)
                 {
-                    Console.WriteLine(runner.data);
-                    runner = runner.next;
+                    head = node;
+
                 }
             }
         }
 
         static void Main(string[] args)
         {
-            LinkedList linkedList = new LinkedList();
-            linkedList.AddNodeToFront(5);
-            linkedList.AddNodeToFront(10);
-            linkedList.PrintList();
+            
             Console.ReadLine();
         }
     }
